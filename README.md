@@ -26,3 +26,8 @@ EDA is involved in exploring the Ecomm Data to answer key questions, such as :
  
  Data Analysis is done by connecting data from  to the "[supply_chain_data.csv](https://github.com/user-attachments/files/17462275/supply_chain_data.csv)"
 Jupeter Notebook, calculating the results from the data.
+
+### Python Libraries
+
+
+![Screenshot 2024-10-21 204713](https://github.com/user-attachments/assets/422367af-fee4-42ac-8924-1daf99a5ef93)
